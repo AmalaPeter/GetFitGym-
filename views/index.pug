@@ -1,0 +1,54 @@
+//- index.pug
+doctype html
+html
+  head
+    title GET FITNESS GYM
+    style
+      include ../static/style.css
+  body
+    nav#navbar
+        ul
+            div#logo
+                img(src="/static/img/mylogo.jpg")
+                | GET FIT GYM
+            li #[a(href="/") Home]
+            li #[a(href="/") About]
+            li #[a(href="/") Services]
+            li #[a(href="/") Class Info]
+            li #[a(href="/") Contact Us]
+    
+    section#introSection
+        div GET FIT GYM
+        div.small Are you READY for The Fitness Challenge!!?? 
+
+    section#missionSection
+        h2 WE ASSURE YOU
+        div.card
+            h3 MORDERN EQUIPMENT
+            div.card-box
+                div.card-content
+                    p Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas ipsum architecto provident voluptatum praesentium.
+        div.card
+            h3 GOOD TRAINING
+            div.card-box
+                div.card-content
+                    p Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem consequuntur porro hic facere autem.
+        div.card
+            h3 HEALTHY DIET PLAN
+            div.card-box
+                div.card-content
+                    p Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum corrupti explicabo consectetur quibusdam tempore?
+
+    section#sponsorsSection
+        h2 ABOUT US
+        p Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores facilis aperiam praesentium eos labore totam. Possimus suscipit consectetur, cupiditate quisquam delectus minus non, dolore laborum perspiciatis, fugit expedita sint Deserunt quas reprehenderit voluptate quo
+    
+    section#foo
+        h2 follow us on social media
+    
+    footer#footer
+        |copywrite @ GET_FIT_GYM.com | All rights reserved
+
+    script
+ 
+      include ../static/index.js
