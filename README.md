@@ -1,4 +1,4 @@
-# GetFitGymWebsite
+# FULL STACK WEB DEVELOPMENT INTERNSHIP
 This is m full stack web development project using Node. Js and MongoDB done under the guidence of Asst Prof Albert Sunny,IIT Palakkad.
 I have attached My weekly Analysis Reports with this Repo.
 ## Environment Setup
