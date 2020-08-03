@@ -8,4 +8,4 @@ I have attached My weekly Analysis Reports and Final Report with this Repo.
 - [Install Express](https://expressjs.com/en/starter/installing.html)
 - [Install MongoDB](https://docs.mongodb.com/manual/installation)
 ### Run
-Clone the code to your PC and run app.js.You can visualise the webapp.
+Clone the code to your PC and run app.js.You can visualise the webapp.Or simply click on the ip address shown above
